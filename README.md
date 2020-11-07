@@ -5,8 +5,7 @@
 
 
 
-##### I'm currently working on Project Metal Scheduler:
-###### An event scheduler geared towards gamers with Discord integration.
+###### 🛠️ Currently working on Project Metal Scheduler: An event scheduler geared towards gamers with Discord integration.
 
  
 
