@@ -1,4 +1,14 @@
-### Hi there 👋
+# Jesse Geiss
+### *Software Engineer*
+>“Experience is simply the name we give our mistakes.” ― Oscar Wilde
+
+
+
+
+##### I'm currently working on Project Metal Scheduler:
+###### An event scheduler geared towards gamers with Discord integration.
+
+ 
 
 <!--
 **YelloFattyBean/YelloFattyBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
