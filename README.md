@@ -2,7 +2,7 @@
 ### *Software Engineer*
 >“Experience is simply the name we give our mistakes.” ― Oscar Wilde
 
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif "Matrix")
 
 
 ###### 🛠️ Currently working on Project Metal Scheduler: An event scheduler geared towards gamers with Discord integration.
