@@ -2,7 +2,7 @@
 ### *Software Engineer*
 >“Experience is simply the name we give our mistakes.” ― Oscar Wilde
 
-![Alt Text](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
+<img src=https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png  width=512> 
 
 
 ### 🛠️ Currently working on: 
